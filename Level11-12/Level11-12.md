@@ -125,7 +125,7 @@ ClVLIh4ASCsCBE8lAxMacFMOXTlTWxooFhRXJh4FGnBTVF4sFxFeLFMK
 ```
 Thay đổi cookie data thành giá trị cookie mới ta sẽ được password cho level 12:
 
-![]('/Image/img.png')
+![](/Image/img.png)
 
 ## Thank you for your reading!
 # End.
